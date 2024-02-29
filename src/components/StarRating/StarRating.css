@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}
+
+.heading {
+    font-size: 2rem;
+}
+
+.active {
+    color: gold;
+}
+
+.inactive {
+    color: black;
+}
